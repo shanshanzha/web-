@@ -1,0 +1,80 @@
+.banner{
+			height: 142px;
+			width: 1525px;
+			border: 2px solid red ;
+			align: center;
+					}
+.dingbu{
+		width: 100%;
+}
+.zuo{
+	width: 300px;
+	height: 240px;
+	
+	float: left;
+}
+.zhong{
+	width: 192px;
+	height: 240px;
+	
+	float: left;
+}
+.touxiang{
+	width: 192px;
+	height: 240px;
+	float: left;
+}
+.wenzi{
+	width: 600px;
+	height: 240px;
+	float: left;
+	
+}
+.you{
+	width: 380px;
+	height: 240px;
+	
+	float: left;
+}
+.zuo input[type='button']{
+	width: 43px;
+	height: 34px;
+	margin-right: 50px;
+	background-image: url(../ss.gif);
+}
+.keyword{
+	width: 180px;
+	height: 34px;
+
+}
+.daohang{
+	width: 1525px;
+	height: 50px;
+	float: left;
+}
+.daohang ul{
+	list-style: none;
+}
+.daohang ul li{
+	float: left;
+	margin-right: 70px;
+}
+.daohang ul li a{
+	text-decoration-style: none;
+	color: #ffffff;
+}
+.zuoxia{
+	width: 1500px;
+	height: 321px;
+
+}
+.xiatu{
+	width: 500px;
+	height: 321px;
+	float: left;
+}
+.xiayoutu{
+	width: 514px;
+	height: 321px;
+	float: right;
+}
